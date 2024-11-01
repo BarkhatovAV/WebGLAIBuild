@@ -1,6 +1,6 @@
 {
-    "name": "WebAR",
-    "short_name": "WebAR",
+    "name": "GigaChat",
+    "short_name": "GigaChat",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
